@@ -2,10 +2,10 @@
 
 A new Flutter project.
 
-## Use Local Notification package. 
-## Use Easy_Localization package to translate from 'en' to 'ar' and vice versa. 
-## Use Url launcher.
-## Make custom Bottom Navigation bar.
+### Use Local Notification package. 
+### Use Easy_Localization package to translate from 'en' to 'ar' and vice versa. 
+### Use Url launcher.
+### Make custom Bottom Navigation bar.
 
 ## Getting Started
 
