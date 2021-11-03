@@ -1,0 +1,8 @@
+{
+  "title": "Title",
+  "app_local_demo": "Application localization Example",
+  "details": "Details",
+  "demo_details": "This is a simple project to change the language with a drop down menu of languages ",
+  "go_second_screen" : "Go to Second Screen ",
+  "go_third_screen" : "Go to third Screen "
+}
